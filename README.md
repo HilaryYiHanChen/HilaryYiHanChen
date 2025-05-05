@@ -2,7 +2,7 @@
 
 - A `Operations Data Analyst`
 - `Python`, `Microsoft Excel`, `PowerBI` Expert
-- Familiar with `JavaScript`, `SPS`S and `SPSS` and `SAS`
+- Familiar with `JavaScript`, `SPSS` and `SPSS` and `SAS`
 - Learning MySQL(from 2025/03)
 
 
