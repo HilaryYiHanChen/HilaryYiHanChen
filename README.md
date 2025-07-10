@@ -1,14 +1,14 @@
 # Hi, I'm Hilary
 
-- A `Operations Data Analyst`
+- A `Business Intelligence Data Analyst`
 - `Python`, `Microsoft Excel`, `PowerBI` Expert
-- Familiar with `JavaScript`, `SPSS` and `SPSS` and `SAS`
-- Learning MySQL(from 2025/03)
-
-
+- Familiar with `Python`, `MySQL`,`Microsoft Excel`, `PowerBI`, `SAP`, `SPSS` and `SAS`
 
 ## About career
 
-  - Email: [morgentrue@gamil.com]
+- Email: [morgentrue@gamil.com]
 
-
+## About Language
+- Chinese (Native proficiency)
+- Englsih (Working proficiency)
+- Learning Japanese (from 2025/01)
