@@ -4,7 +4,7 @@
 - `Python`, `Microsoft Excel`, `PowerBI` Expert
 - Familiar with `Python`, `MySQL`,`Microsoft Excel`, `PowerBI`, `SAP`, `SPSS` and `SAS`
 
-## About career
+## About Career
 
 - Email: [morgentrue@gamil.com]
 
